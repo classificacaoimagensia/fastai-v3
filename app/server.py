@@ -11,7 +11,6 @@ from fastai.vision import *
 
 export_file_url = 'https://drive.google.com/file/d/1UKjgKsMI_hM0YHSAA8-0MDorIHFO_cQa/view?usp=sharing'
 export_file_name = 'export.pkl'
- Dalbulus maidis
 classes = [' Agrotis_ipsilon', 'Alabama argillacea', 'Alabama argillacea', 'Anthonomus grandis', 'Aphis gossypi', 'Bemisia tabaci', 'Dalbulus maidis', 'Diabrotica speciosa', 'Diatraea saccharalis', 'Helicoverpa armigera', 'Helicoverpa armigera adulta', 'Helicoverpa zea', 'Heliothis virescens', 'Heliothis virescens adulta', 'Horcias nobilellus', 'Pectinophora gossypiella', 'Spodoptera eridania', 'Spodoptera frugiperda', 'Spodoptera frugiperda adulta', 'Tetranychus urticae', 'Classe desconhecida', 'pseudoplusia includens', 'percevejos']
 path = Path(__file__).parent
 
